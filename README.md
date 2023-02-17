@@ -2,7 +2,7 @@ Download Modules
 [Here](https://www.mediafire.com/file/wczapv7uipv7vfk/node_modules.zip/file)
 
 <p align="center">
-  <a href="https://github.com/Johannes2803"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Johannes;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesian;In+Kabupaten+Medan+Deli;Don't+bully+me+im+still+noob≧▽≦" alt="Asu">
+  <a href="https://github.com/Johannes2803"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+is+Prince;I+Learn+C+++++And+Javascript;I+Am+16+Years+Old;I+live+In+Kenya;In+Thika;Don't+bully+me+im+still+noob≧▽≦" alt="Asu">
 </p>
 
 <p align="center">
